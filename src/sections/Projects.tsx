@@ -72,7 +72,7 @@ function Projects() {
       <div className="projects-container">
         {
             projectsData.map (({
-                image, projectDescription, projectlink, projectExternalLinks, projectName, projectTech,
+                image, projectDescription, projectExternalLinks, projectName, projectTech,
             }) => {
                 return (
                     <div className="project" key={projectName}>
