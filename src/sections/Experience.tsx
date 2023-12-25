@@ -23,10 +23,8 @@ function Experience() {
           start: "January 2024",
           end: "June 2024",
           shortDescription: [
-            "I had experience working on a large codebase utilizing Kibana and Elasticsearch.",
-            "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, TypeScript, Node.js, Hapi, and Elasticsearch, among others.",
-            "I've also managed a small team that includes Frontend Developers, Backend Developers, and UI/UX Developers.",
-            "Additionally, I've represented the company in client meetings, communicating effectively on their behalf.",
+            "I will be joining the reputed firm in the winter of 2024.",
+            "Being a part of Corporate Banking sector, I will be making contributions for the same.",
           ],
         },
         {
@@ -48,9 +46,9 @@ function Experience() {
             start: "July 2023",
             end: "Present",
             shortDescription: [
-              "AARAMBH-2023 : Responsible for ensuring smooth ",
-              "Reduced the storage costs by 60% by transferring and mapping the data through their respective APIs.",
-              "Created unit test cases for checking the correct working of the APIs and acquiring a coverage of about 85%.",
+              "AARAMBH-2023 : Responsible for ensuring smooth functioning of the event.",
+              "SAMWAD-2022 : Organizing Head" ,
+              "SCEECS-2023 : Organizing Head",
             ],
         },
         {

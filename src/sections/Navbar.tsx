@@ -88,7 +88,7 @@ function Navbar() {
               </ul>
               <motion.div className="nav-items-button" initial={{opacity:0, y:-25}} animate={{opacity:1, y:0}} 
                     transition={{duration:0.3, ease:"easeInOut", delay:0.6}}>
-                <Button text="Resume" link="http://localhost:3000/resume.pdf" />
+                <Button text="Resume" link="https://drive.google.com/file/d/1NqLprWalSIkkuVtp_f9exfxi0D6XSRsa/view?usp=sharing" />
               </motion.div>
             </div>
         </div>
