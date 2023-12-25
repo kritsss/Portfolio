@@ -13,7 +13,7 @@ function Projects() {
           projectName: "Fake News Detection",
           projectLink: "https://github.com/kritsss/Fake-News-Detection",
           projectDescription:
-            "This is a web application that uses the PokeAPI to display information about different Pokemon, including their evolution levels and details. You can compare multiple Pokemon using a queue, and add them to your personal list using Firebase's Firestore database.",
+            "The project uses various deep learning mechanisms to differentiate and perform binary classification of news into Real and Fake. Some of the libraries used are : Scikit-learn, Pytorch, transformers etc.",
           projectTech: [
             "Deep Learning",
             "LSTM",
@@ -31,7 +31,7 @@ function Projects() {
           projectName: "Discord Clone",
           projectLink: "https://discord-clone-58655.web.app/",
           projectDescription:
-            "This is a chat app made with React and Node.js that sends real-time messages and is highly scalable. It uses advanced JavaScript concepts like debouncing and is optimized for React. It has 300+ stars on GitHub and over 180k views on YouTube.",
+            "This is a chat app made with React.js(for frontend) and Redux.js(for backend) that sends real-time messages and is highly scalable. Firebase is used as the database and deployment tool.",
           projectTech: [
             "React.Js",
             "Redux.Js",
@@ -47,7 +47,7 @@ function Projects() {
           projectName: "Todo List",
           projectLink: "https://todo-list-krits.netlify.app/",
           projectDescription:
-            "I made a Netflix copy with TMBD Api. It has infinite scrolling and lets you watch movies by genre. You can also add movies to your favorites list.",
+            "I made a TODO list with HTML, CSS and Javascript. It has a developed frontend and is handy for keeping the track of your pending tasks.",
           projectTech: [
             "HTML",
             "CSS",
